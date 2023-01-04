@@ -7,7 +7,7 @@ Abaixo estão as imagens e gif´s do site que foi reproduzido.
 
 [<img src="./github/02.jpg" alt="mobile">]
 
-[<img src="./github/Profile-Card.gif" alt="gif do profile card a ser reproduzido">](https://tadeu-sureto.github.io/exercicio-css-avancado-flex-01/)
+[<img src="./github/Profile-Card.gif" alt="gif do profile card a ser reproduzido">](https://tadeu-sureto.github.io/exercicio-02-css-flex-profile-card/)
 
 [<img src="./github/03.jpg" alt="Profile Card Reproduzido">]
 
