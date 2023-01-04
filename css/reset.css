@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Kumbh Sans', sem serifa;
+    font-size: 20px;
+}
+
+ul, li{
+    list-style: none;
+}
